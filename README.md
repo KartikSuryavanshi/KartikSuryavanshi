@@ -47,7 +47,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
 
 **AI/ML:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
@@ -71,8 +70,8 @@ I love working on impactful projects. If you have an idea that aligns with **AI,
 
 ## 📫 Reach Me At
 
-- ✉️ **Email:** [Your Email Here]
-- 🔗 **LinkedIn:** [Your LinkedIn Here]
+- ✉️ **Email:** kartiknileshs@gmail.com
+- 🔗 **LinkedIn:** https://www.linkedin.com/in/kartik-suryavanshi-65192a289/
 
 ---
 
