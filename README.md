@@ -1,79 +1,86 @@
-# Hi there, I'm Kartik Suryavanshi! 👋 🚀
+<h1 align="center">Hi 👋, I'm Kartik Suryavanshi</h1>
+<h3 align="center">An AI enthusiast & open-source contributor from India</h3>
 
-💡 **AI Enthusiast | Open Source Contributor | Web Developer**
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
----
-
-## 🌟 Who am I?
-
-- 🎓 **BTech CSE student** specializing in Artificial Intelligence at Savitribai Phule University.
-- 🛠️ Passionate about building intelligent systems and solving real-world problems with AI.
-- 🌍 **Open-source advocate** & proud member of [Oppia](https://www.oppia.org/), contributing to making education more accessible.
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=kartiksuryavanshi&label=Profile%20views&color=0e75b6&style=flat" alt="kartiksuryavanshi" />
+</p>
 
 ---
 
-## 🔭 What I'm Working On
-
-- Building **AI-powered applications** that enhance user experiences.
-- Contributing to **open-source projects** that drive innovation.
-- Exploring **full-stack development** using MERN & AI integration.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced **Machine Learning & Deep Learning** techniques.
-- Expanding knowledge in large-scale web applications using **Angular & TypeScript**.
-- Exploring **privacy-focused software development**.
+### 🎓 About Me
+- 🎓 **BTech CSE (AI)** student at Savitribai Phule Pune University  
+- 💡 Passionate about **AI, ML, and intelligent systems**
+- 🌍 Active **open-source contributor** at <a href="https://github.com/oppia/oppia">Oppia</a>
+- 🚀 Interested in building scalable **AI-powered web applications**
 
 ---
 
-## 📌 Tech Stack & Tools
-
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-
-**Frontend:**  
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=nextdotjs)
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
-
-**Backend:**  
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
-![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-
-**AI/ML:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-black?style=flat-square&logo=scikitlearn)
-
-**Tools:**  
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
-![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
+### 🔭 Currently Working On
+- AI-powered applications for better user experiences  
+- Open-source contributions and community collaboration  
+- Full-stack projects with AI integration  
 
 ---
 
-## 🤝 Let's Collaborate!
-
-I love working on impactful projects. If you have an idea that aligns with **AI, open-source, or web development**, let's connect!
+### 🌱 Currently Learning
+- Advanced **Machine Learning & Deep Learning**
+- **Angular & TypeScript** for large-scale frontend systems
+- **Privacy-focused software development**
 
 ---
 
-## 📫 Reach Me At
+### 👯 Looking to Collaborate On
+- Open-source projects  
+- AI / ML research or applications  
+- Web development + AI integrations  
 
-- ✉️ **Email:** kartiknileshs@gmail.com
-- 🔗 **LinkedIn:** https://www.linkedin.com/in/kartik-suryavanshi-65192a289/
+---
+
+### 💬 Ask Me About
+**AI, Machine Learning, Web Development, Open Source, Oppia**
+
+---
+
+## 🚀 Technical Skills
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,nodejs,express,mongodb" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vite,linux,vscode" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/kartik-suryavanshi-65192a289/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:kartiknileshs@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+| ![Kartik GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartiksuryavanshi&show_icons=true&theme=tokyonight&border_radius=8) | ![Kartik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartiksuryavanshi&theme=tokyonight&border_radius=8) |
+| -- | -- |
 
 ---
 
 ⚡ **Fun Fact:**  
-I believe **code + coffee = infinite possibilities!** ☕🚀
+I believe **code + coffee = infinite possibilities! ☕🚀**
+
