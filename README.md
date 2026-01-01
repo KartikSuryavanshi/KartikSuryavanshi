@@ -39,7 +39,7 @@
 ---
 
 ### 💬 Ask Me About
-**AI, Machine Learning, Web Development, Open Source, Oppia**
+**AI, Machine Learning, MLOPS,LLM, Web Development, Open Source, Oppia**
 
 ---
 
