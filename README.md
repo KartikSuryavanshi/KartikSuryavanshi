@@ -10,7 +10,7 @@
 ---
 
 ### 🎓 About Me
-- 🎓 **BTech CSE (AI)** student at Savitribai Phule Pune University  
+- 🎓 BTech CSE (AI) student at Savitribai Phule Pune University  
 - 💡 Passionate about **AI, ML, and intelligent systems**
 - 🌍 Active **open-source contributor** at <a href="https://github.com/oppia/oppia">Oppia</a>
 - 🚀 Interested in building scalable **AI-powered web applications**
