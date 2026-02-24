@@ -25,9 +25,8 @@
 ---
 
 ### 🌱 Currently Learning
-- Advanced **Machine Learning & Deep Learning**
+- Advanced **Generative AI**
 - **Angular & TypeScript** for large-scale frontend systems
-- **Privacy-focused software development**
 
 ---
 
