@@ -31,7 +31,6 @@
 ---
 
 ### 👯 Looking to Collaborate On
-- Open-source projects  
 - AI / ML research or applications  
 - Web development + AI integrations  
 
