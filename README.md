@@ -9,39 +9,33 @@
 
 ---
 
-### 🎓 About Me
-- 🎓 BTech CSE (AI) student at Savitribai Phule Pune University  
-- 💡 Passionate about **AI, ML, and intelligent systems**
-- 🌍 Active **open-source contributor** at <a href="https://github.com/oppia/oppia">Oppia</a>
-- 🚀 Interested in building scalable **AI-powered web applications**
+### About Me
+- BTech CSE (AI) student at Savitribai Phule Pune University  
+- Passionate about **AI, ML, and intelligent systems**
+- Active **open-source contributor** at <a href="https://github.com/oppia/oppia">Oppia</a>
+- Interested in building scalable **AI-powered web applications**
 
 ---
 
-### 🔭 Currently Working On
+### Currently Working On
 - AI-powered applications for better user experiences  
 - Open-source contributions and community collaboration  
 - Full-stack projects with AI integration  
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - Advanced **Generative AI**
 - **Angular & TypeScript** for large-scale frontend systems
 
 ---
 
-### 👯 Looking to Collaborate On
-- AI / ML research or applications  
-- Web development + AI integrations  
-
----
-
-### 💬 Ask Me About
+### Ask Me About
 **AI, Machine Learning, MLOPS,LLM, Web Development, Open Source, Oppia**
 
 ---
 
-## 🚀 Technical Skills
+## Technical Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,python,c,cpp,java" />
 </p>
@@ -60,7 +54,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kartik-suryavanshi-65192a289/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
@@ -72,13 +66,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 | ![Kartik GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartiksuryavanshi&show_icons=true&theme=tokyonight&border_radius=8) | ![Kartik GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kartiksuryavanshi&theme=tokyonight&border_radius=8) |
 | -- | -- |
 
----
-
-⚡ **Fun Fact:**  
-I believe **code + coffee = infinite possibilities! ☕🚀**
 
