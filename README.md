@@ -7,33 +7,23 @@
   <img src="https://komarev.com/ghpvc/?username=kartiksuryavanshi&label=Profile%20views&color=0e75b6&style=flat" alt="kartiksuryavanshi" />
 </p>
 
----
-
 ### About Me
 - BTech CSE (AI) student at Savitribai Phule Pune University  
 - Passionate about **AI, ML, and intelligent systems**
 - Active **open-source contributor** at <a href="https://github.com/oppia/oppia">Oppia</a>
 - Interested in building scalable **AI-powered web applications**
 
----
-
 ### Currently Working On
 - AI-powered applications for better user experiences  
 - Open-source contributions and community collaboration  
 - Full-stack projects with AI integration  
 
----
-
 ### Currently Learning
 - Advanced **Generative AI**
 - **Angular & TypeScript** for large-scale frontend systems
 
----
-
 ### Ask Me About
 **AI, Machine Learning, MLOPS,LLM, Web Development, Open Source, Oppia**
-
----
 
 ## Technical Skills
 <p align="center">
@@ -52,8 +42,6 @@
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vite,linux,vscode" />
 </p>
 
----
-
 ## Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/kartik-suryavanshi-65192a289/" target="_blank">
@@ -63,8 +51,6 @@
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
-
----
 
 ## GitHub Stats
 
