@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 - B.Tech CSE (AI) @ Pune University(CGPA: 9.4)  
 - B.S. in Programming & Data Science @ IIT Madras  
 - **Google Summer of Code 2026 @ Oppia Foundation**  
@@ -18,34 +18,18 @@
 
 ---
 
-## 🔥 GSoC 2026 (Oppia)
+## GSoC 2026 (Oppia)
 - Redesigning **Topic Page** for a unified, scroll-based learning experience  
 - Building **structured navigation + progress tracking across lessons**  
 - Enhancing **UI/UX for learner engagement and accessibility**  
 
 ---
 
-## 💼 Open Source Impact (Oppia)
+## Open Source Impact (Oppia)
 - Merged **40+ PRs** improving scalability & platform stability (10K+ users)  
 - Added **unit, backend & acceptance tests**  
 - Resolved **20+ production issues pre-release**  
 - Mentoring contributors as **Tech Lead / LEAP Co-Lead**
-
----
-
-## 🧠 Projects
-
-### 🔹 BrandGuardian-AI
-- Built an **Agentic AI system** for automated video compliance auditing  
-- Implemented **RAG pipeline with Azure AI Search + OpenAI embeddings**  
-- Orchestrated workflows using **LangGraph + deterministic validation**  
-- Generated structured compliance reports using **GPT-4o**
-
-### 🔹 AI Interview & Evaluation System
-- Developed **multi-agent AI system** for technical interviews  
-- Used **Microsoft AutoGen** for interviewer–evaluator collaboration  
-- Enabled real-time interaction via **FastAPI + WebSockets**  
-- Integrated **local LLMs (Ollama, LLaMA)** for efficient inference  
 
 ---
 
