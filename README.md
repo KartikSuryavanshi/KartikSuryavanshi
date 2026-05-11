@@ -33,7 +33,7 @@
 
 ---
 
-## 🏆 Achievements
+## Achievements
 - Full Member @ Oppia Foundation  
 - Tech Lead / Co-Lead (LEAP Team)  
 - GitHub Maintainer Advisory Network (<0.1% maintainers)  
